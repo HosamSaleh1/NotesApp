@@ -1,0 +1,11 @@
+1- grading system for studients
+2- add
+ read 
+ list subject&grade
+  delete by id
+3- studients[id:num:uniq,
+name:str,
+subject:str,
+grade:num,
+comment:str:notrequierd]
+by yargs library
